@@ -15,10 +15,6 @@ class Entry @JvmOverloads constructor(
     @param:Element(name = "summary")
     var summary: String? = null,
 
-//    @field:Element(name = "category")
-//    @param:Element(name = "category")
-//    var category: String? = null,
-
     @field:Element(name = "artist")
     @param:Element(name = "artist")
     var artist: String? = null,
